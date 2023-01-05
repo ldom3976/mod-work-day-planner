@@ -28,6 +28,8 @@ THEN the saved events persist
 
 ## Link to Deployed URL:
 
+https://ldom3976.github.io/mod-work-day-planner/
+
 ### Visual Representation:
 
 ![Alt text](Assets/images/wrkdsc.jpeg)
